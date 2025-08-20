@@ -2,8 +2,8 @@
 #include <DHT.h>
 
 // 🔹 WiFi credentials
-const char* ssid = "YOUR_WIFI_NAME";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "Aditya";
+const char* password = "2204";
 
 // 🔹 ThingSpeak settings
 const char* server = "api.thingspeak.com";
